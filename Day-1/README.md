@@ -1,4 +1,4 @@
-# Day 1 — Secret Entrance
+# Day 1 - Secret Entrance
 
 This folder contains my solution to Advent of Code 2025 — Day 1: Secret Entrance.
 
