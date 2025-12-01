@@ -1,4 +1,4 @@
-# Advent of Code 2025 — Solutions
+# Advent of Code 2025 - Solutions
 
 This repository contains my Advent of Code 2025 puzzle solutions. Each day has
 its own folder (Day-1, Day-2, ...), containing a short README, inputs and a
